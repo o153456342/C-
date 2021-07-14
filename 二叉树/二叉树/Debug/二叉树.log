@@ -1,4 +1,6 @@
 ﻿  binarytree.c
+C:\Users\o1534\Desktop\数据结构\二叉树\二叉树\binarytree.c(13,7): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  Queue.c
   test.c
   正在生成代码...
   二叉树.vcxproj -> C:\Users\o1534\Desktop\数据结构\二叉树\Debug\二叉树.exe

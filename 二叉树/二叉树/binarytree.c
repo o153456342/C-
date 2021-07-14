@@ -10,7 +10,7 @@ void DestoryTree(BTNode* root)
 	DestoryTree(root->right);
 
 	free(root);
-	root == NULL;
+	root = NULL;
 }
 
 //Ç°Ðò
