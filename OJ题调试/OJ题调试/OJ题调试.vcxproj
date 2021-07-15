@@ -143,8 +143,10 @@
     <ClCompile Include="maze2.c" />
     <ClCompile Include="test.c" />
     <ClCompile Include="二叉树的层序遍历.c" />
+    <ClCompile Include="反转二叉树.c" />
     <ClCompile Include="回文链表.c" />
     <ClCompile Include="有序数组的平方.c" />
+    <ClCompile Include="跳跃游戏.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
