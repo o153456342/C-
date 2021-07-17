@@ -42,5 +42,8 @@
     <ClCompile Include="矩阵路径.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="无重复字符串的最大子串.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
