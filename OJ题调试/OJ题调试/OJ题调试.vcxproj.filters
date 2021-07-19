@@ -45,5 +45,20 @@
     <ClCompile Include="无重复字符串的最大子串.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="图像渲染.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="图像.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="合并二叉树.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="两数相加.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="和为s的连续正数序列.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

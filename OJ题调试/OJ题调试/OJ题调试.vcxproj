@@ -142,9 +142,14 @@
     <ClCompile Include="maze.c" />
     <ClCompile Include="maze2.c" />
     <ClCompile Include="test.c" />
+    <ClCompile Include="两数相加.c" />
     <ClCompile Include="二叉树的层序遍历.c" />
     <ClCompile Include="反转二叉树.c" />
+    <ClCompile Include="合并二叉树.c" />
+    <ClCompile Include="和为s的连续正数序列.c" />
     <ClCompile Include="回文链表.c" />
+    <ClCompile Include="图像.c" />
+    <ClCompile Include="图像渲染.c" />
     <ClCompile Include="无重复字符串的最大子串.c" />
     <ClCompile Include="有序数组的平方.c" />
     <ClCompile Include="矩阵路径.c" />
