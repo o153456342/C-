@@ -1,6 +1,6 @@
-﻿  两数相加.c
-  和为s的连续正数序列.c
-E:\Github\C-data-structure\OJ题调试\OJ题调试\和为s的连续正数序列.c(45,47): warning C4047: “函数”:“int *”与“int”的间接级别不同
-E:\Github\C-data-structure\OJ题调试\OJ题调试\和为s的连续正数序列.c(45,36): warning C4024: “findContinuousSequence”: 形参和实参 2 的类型不同
+﻿  和为s的连续正数序列.c
+  接雨水.c
+E:\Github\C-data-structure\OJ题调试\OJ题调试\接雨水.c(14,26): warning C4013: “fmax”未定义；假设外部返回 int
+E:\Github\C-data-structure\OJ题调试\OJ题调试\接雨水.c(26,17): warning C4013: “fmin”未定义；假设外部返回 int
   正在生成代码...
   OJ题调试.vcxproj -> E:\Github\C-data-structure\OJ题调试\Debug\OJ题调试.exe

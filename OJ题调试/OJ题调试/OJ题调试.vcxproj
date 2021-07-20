@@ -150,6 +150,7 @@
     <ClCompile Include="回文链表.c" />
     <ClCompile Include="图像.c" />
     <ClCompile Include="图像渲染.c" />
+    <ClCompile Include="接雨水.c" />
     <ClCompile Include="无重复字符串的最大子串.c" />
     <ClCompile Include="有序数组的平方.c" />
     <ClCompile Include="矩阵路径.c" />

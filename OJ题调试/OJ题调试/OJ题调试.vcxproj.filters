@@ -60,5 +60,8 @@
     <ClCompile Include="和为s的连续正数序列.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="接雨水.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
