@@ -1,6 +1,2 @@
-﻿  和为s的连续正数序列.c
-  接雨水.c
-E:\Github\C-data-structure\OJ题调试\OJ题调试\接雨水.c(14,26): warning C4013: “fmax”未定义；假设外部返回 int
-E:\Github\C-data-structure\OJ题调试\OJ题调试\接雨水.c(26,17): warning C4013: “fmin”未定义；假设外部返回 int
-  正在生成代码...
+﻿  接雨水.cpp
   OJ题调试.vcxproj -> E:\Github\C-data-structure\OJ题调试\Debug\OJ题调试.exe
