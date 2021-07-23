@@ -66,5 +66,8 @@
     <ClCompile Include="字母大小写全排列.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="三角形最小路径和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
