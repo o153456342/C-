@@ -1,2 +1,8 @@
-﻿  字母大小写全排列.c
+﻿  剪绳子.c
+  腐烂的橘子.c
+E:\Github\C-data-structure\OJ题调试\OJ题调试\腐烂的橘子.c(81,32): warning C4047: “函数”:“int **”与“int [3][3]”的间接级别不同
+E:\Github\C-data-structure\OJ题调试\OJ题调试\腐烂的橘子.c(81,29): warning C4024: “orangesRotting”: 形参和实参 1 的类型不同
+E:\Github\C-data-structure\OJ题调试\OJ题调试\腐烂的橘子.c(81,38): warning C4047: “函数”:“int *”与“int”的间接级别不同
+E:\Github\C-data-structure\OJ题调试\OJ题调试\腐烂的橘子.c(81,37): warning C4024: “orangesRotting”: 形参和实参 3 的类型不同
+  正在生成代码...
   OJ题调试.vcxproj -> E:\Github\C-data-structure\OJ题调试\Debug\OJ题调试.exe

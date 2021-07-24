@@ -1,24 +1,24 @@
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
-#include <ctype.h>
-#include <math.h>
+//#include <stdlib.h>
+//#include <stdio.h>
+//#include <string.h>
+//#include <ctype.h>
+//#include <math.h>
 
-int minimumTotal(int** triangle, int triangleSize, int* triangleColSize)
-{
-    // int dp[triangleSize+1][triangleSize+1];
-    int dp[triangleSize + 1];
-    memset(dp, 0, sizeof(dp));
-    for (int i = triangleSize - 1; i >= 0; i--)
-    {
-        for (int j = 0; j <= i; j++)
-        {
-            // dp[i][j] = fmin(dp[i+1][j],dp[i+1][j+1]) +triangle[i][j];
-            dp[j] = fmin(dp[j], dp[j + 1]) + triangle[i][j];
-        }
-    }
-    return dp[0];
-}
+//int minimumTotal(int** triangle, int triangleSize, int* triangleColSize)
+//{
+//    // int dp[triangleSize+1][triangleSize+1];
+//    int dp[triangleSize + 1];
+//    memset(dp, 0, sizeof(dp));
+//    for (int i = triangleSize - 1; i >= 0; i--)
+//    {
+//        for (int j = 0; j <= i; j++)
+//        {
+//            // dp[i][j] = fmin(dp[i+1][j],dp[i+1][j+1]) +triangle[i][j];
+//            dp[j] = fmin(dp[j], dp[j + 1]) + triangle[i][j];
+//        }
+//    }
+//    return dp[0];
+//}
 
 //×Ô¶¥Ïòµ×
 // int minimumTotal(int** triangle, int triangleSize, int* triangleColSize)
@@ -44,8 +44,8 @@ int minimumTotal(int** triangle, int triangleSize, int* triangleColSize)
 //     return ret;
 // }
 
-int main()
-{
-    minimumTotal();
-    return 0;
-}
+//int main()
+//{
+//    minimumTotal();
+//    return 0;
+//}

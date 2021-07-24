@@ -145,6 +145,7 @@
     <ClCompile Include="三角形最小路径和.cpp" />
     <ClCompile Include="两数相加.c" />
     <ClCompile Include="二叉树的层序遍历.c" />
+    <ClCompile Include="剪绳子.c" />
     <ClCompile Include="反转二叉树.c" />
     <ClCompile Include="合并二叉树.c" />
     <ClCompile Include="和为s的连续正数序列.c" />
@@ -156,7 +157,11 @@
     <ClCompile Include="无重复字符串的最大子串.c" />
     <ClCompile Include="有序数组的平方.c" />
     <ClCompile Include="矩阵路径.c" />
+    <ClCompile Include="腐烂的橘子.c" />
     <ClCompile Include="跳跃游戏.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
