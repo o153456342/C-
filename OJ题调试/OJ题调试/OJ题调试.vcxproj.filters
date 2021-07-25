@@ -75,6 +75,12 @@
     <ClCompile Include="腐烂的橘子.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最后一块石头的重量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分割等和子集.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">
