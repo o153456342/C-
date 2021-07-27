@@ -81,6 +81,15 @@
     <ClCompile Include="分割等和子集.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="颜色分类.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="不同路径.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="不同路径2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">

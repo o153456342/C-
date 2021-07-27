@@ -143,6 +143,8 @@
     <ClCompile Include="maze2.c" />
     <ClCompile Include="test.c" />
     <ClCompile Include="三角形最小路径和.cpp" />
+    <ClCompile Include="不同路径.c" />
+    <ClCompile Include="不同路径2.c" />
     <ClCompile Include="两数相加.c" />
     <ClCompile Include="二叉树的层序遍历.c" />
     <ClCompile Include="分割等和子集.c" />
@@ -161,6 +163,7 @@
     <ClCompile Include="矩阵路径.c" />
     <ClCompile Include="腐烂的橘子.c" />
     <ClCompile Include="跳跃游戏.c" />
+    <ClCompile Include="颜色分类.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h" />

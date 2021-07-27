@@ -1,4 +1,4 @@
-﻿  合并二叉树.c
-  腐烂的橘子.c
-  正在生成代码...
+﻿  不同路径2.c
+E:\Github\C-data-structure\OJ题调试\OJ题调试\不同路径2.c(26,53): warning C4047: “函数”:“int **”与“int (*)[3][3]”的间接级别不同
+E:\Github\C-data-structure\OJ题调试\OJ题调试\不同路径2.c(26,40): warning C4024: “uniquePathsWithObstacles”: 形参和实参 1 的类型不同
   OJ题调试.vcxproj -> E:\Github\C-data-structure\OJ题调试\Debug\OJ题调试.exe
