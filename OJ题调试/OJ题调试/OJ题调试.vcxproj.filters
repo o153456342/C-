@@ -90,6 +90,15 @@
     <ClCompile Include="不同路径2.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="矩阵区域和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维区域和检索 - 矩阵不可变.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="在排序数组中查找元素的第一个和最后一个位置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">
