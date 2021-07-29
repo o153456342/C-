@@ -1,5 +1,5 @@
-﻿  二维区域和检索 - 矩阵不可变.c
-  矩阵区域和.c
+﻿  分割等和子集.c
+  最后一块石头的重量.c
+E:\Github\C-data-structure\OJ题调试\OJ题调试\最后一块石头的重量.c(18,63): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
   正在生成代码...
-  在排序数组中查找元素的第一个和最后一个位置.cpp
   OJ题调试.vcxproj -> E:\Github\C-data-structure\OJ题调试\Debug\OJ题调试.exe
