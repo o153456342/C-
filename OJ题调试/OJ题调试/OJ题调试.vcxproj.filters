@@ -99,6 +99,15 @@
     <ClCompile Include="在排序数组中查找元素的第一个和最后一个位置.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="区间列表的交集.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长的回文子串.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长回文子串.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">

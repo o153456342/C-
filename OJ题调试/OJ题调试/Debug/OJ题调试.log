@@ -1,5 +1,4 @@
-﻿  分割等和子集.c
-  最后一块石头的重量.c
-E:\Github\C-data-structure\OJ题调试\OJ题调试\最后一块石头的重量.c(18,63): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-  正在生成代码...
+﻿  最长回文子串.c
+E:\Github\C-data-structure\OJ题调试\OJ题调试\最长回文子串.c(20,49): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\Github\C-data-structure\OJ题调试\OJ题调试\最长回文子串.c(27,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
   OJ题调试.vcxproj -> E:\Github\C-data-structure\OJ题调试\Debug\OJ题调试.exe

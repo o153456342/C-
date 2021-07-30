@@ -150,6 +150,7 @@
     <ClCompile Include="二维区域和检索 - 矩阵不可变.c" />
     <ClCompile Include="分割等和子集.c" />
     <ClCompile Include="剪绳子.c" />
+    <ClCompile Include="区间列表的交集.c" />
     <ClCompile Include="反转二叉树.c" />
     <ClCompile Include="合并二叉树.c" />
     <ClCompile Include="和为s的连续正数序列.c" />
@@ -161,6 +162,8 @@
     <ClCompile Include="接雨水.cpp" />
     <ClCompile Include="无重复字符串的最大子串.c" />
     <ClCompile Include="最后一块石头的重量.c" />
+    <ClCompile Include="最长回文子串.c" />
+    <ClCompile Include="最长的回文子串.c" />
     <ClCompile Include="有序数组的平方.c" />
     <ClCompile Include="矩阵区域和.c" />
     <ClCompile Include="矩阵路径.c" />
