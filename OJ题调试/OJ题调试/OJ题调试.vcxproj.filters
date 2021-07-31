@@ -108,6 +108,12 @@
     <ClCompile Include="最长回文子串.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="零钱问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="零钱问题2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">
