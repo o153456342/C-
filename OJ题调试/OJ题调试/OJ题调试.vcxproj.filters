@@ -114,6 +114,9 @@
     <ClCompile Include="零钱问题2.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="被围绕的区域.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">

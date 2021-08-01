@@ -168,6 +168,7 @@
     <ClCompile Include="矩阵区域和.c" />
     <ClCompile Include="矩阵路径.c" />
     <ClCompile Include="腐烂的橘子.c" />
+    <ClCompile Include="被围绕的区域.c" />
     <ClCompile Include="跳跃游戏.c" />
     <ClCompile Include="零钱问题.c" />
     <ClCompile Include="零钱问题2.c" />
