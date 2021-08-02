@@ -153,12 +153,14 @@
     <ClCompile Include="区间列表的交集.c" />
     <ClCompile Include="反转二叉树.c" />
     <ClCompile Include="合并二叉树.c" />
+    <ClCompile Include="和为K的子数组.c" />
     <ClCompile Include="和为s的连续正数序列.c" />
     <ClCompile Include="回文链表.c" />
     <ClCompile Include="图像.c" />
     <ClCompile Include="图像渲染.c" />
     <ClCompile Include="在排序数组中查找元素的第一个和最后一个位置.cpp" />
     <ClCompile Include="字母大小写全排列.c" />
+    <ClCompile Include="找到字符串中所有字母异位词.c" />
     <ClCompile Include="接雨水.cpp" />
     <ClCompile Include="无重复字符串的最大子串.c" />
     <ClCompile Include="最后一块石头的重量.c" />
@@ -167,6 +169,7 @@
     <ClCompile Include="有序数组的平方.c" />
     <ClCompile Include="矩阵区域和.c" />
     <ClCompile Include="矩阵路径.c" />
+    <ClCompile Include="编辑距离.c" />
     <ClCompile Include="腐烂的橘子.c" />
     <ClCompile Include="被围绕的区域.c" />
     <ClCompile Include="跳跃游戏.c" />
