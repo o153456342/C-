@@ -149,8 +149,10 @@
     <ClCompile Include="二叉树的层序遍历.c" />
     <ClCompile Include="二维区域和检索 - 矩阵不可变.c" />
     <ClCompile Include="分割等和子集.c" />
+    <ClCompile Include="划分字母区间.c" />
     <ClCompile Include="剪绳子.c" />
     <ClCompile Include="区间列表的交集.c" />
+    <ClCompile Include="单词规律.c" />
     <ClCompile Include="反转二叉树.c" />
     <ClCompile Include="合并二叉树.c" />
     <ClCompile Include="和为K的子数组.c" />

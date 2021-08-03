@@ -1,0 +1,48 @@
+#include "test.h"
+
+int* preProcess(char* s, int* len)
+{
+    int size = 1;
+    int i;
+    for (i = 0; s[i]; i++)
+        if (s[i] == ' ')
+            size++;
+    int* nums = (int*)malloc(sizeof(int) * (size));
+    size = 0;
+    nums[size++] = 0;
+    for (i = 0; s[i]; i++)
+        if (s[i] == ' ')
+        {
+            s[i] = '\0';
+            nums[size++] = i + 1;
+        }
+    *len = size;
+    return nums;
+}
+
+bool wordPattern(char* pattern, char* s)
+{
+    int size;
+    int* index = preProcess(s, &size);
+    int len = strlen(pattern);
+    if (len != size)
+        return false;
+    for (int i = 0; i < len; i++)
+        for (int j = i + 1; j < len; j++)
+        {
+            int re = strcmp(&s[index[i]], &s[index[j]]);
+            if ((pattern[i] == pattern[j] && re != 0) ||
+                (pattern[i] != pattern[j] && re == 0)
+                )
+                return false;
+        }
+    free(index);
+    return true;
+}
+
+int main() {
+    char pattern[] = "abba";
+    char s[] = "dog cat cat dog";
+    printf("%d", wordPattern(pattern, s));
+    return 0;
+}
